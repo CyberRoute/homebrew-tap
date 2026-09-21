@@ -2,7 +2,7 @@ class WeatherProCli < Formula
   desc "Simple CLI that reports the weather for a city"
   homepage "https://github.com/CyberRoute/weather-pro-cli"
   url "https://github.com/CyberRoute/weather-pro-cli/archive/refs/tags/v1.1.0.tar.gz"
-  sha256 "885c61689f3b9b41b9bcd0b97a3a0b2304ccf21bf462b07d04f7ce4637ab9ce9"
+  sha256 "5f220d57d7d835dced96dd7ed883ece1bab50b041a266c7793eccf7dac691220"
   license "MIT"
 
   def install
